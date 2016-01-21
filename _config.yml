@@ -1,0 +1,28 @@
+name: jennimurtagh
+favicon: null
+layout_spectrum: 0.5561288399621844
+typography_spectrum: 0.2604252686724067
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8417541824746877
+  lightness: 0.3904367561917752
+  saturation: 0.5006247428245842
+  rhythmicContrast: 0.7618183812592179
+purpose: []
